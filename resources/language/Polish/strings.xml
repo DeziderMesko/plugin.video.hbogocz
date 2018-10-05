@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Operator -->
+    <string id="32000">Wybierz operatora</string>
+    <string id="32001">nc+</string>
+    <string id="32002">Plus</string>
+    <string id="32003">UPC</string>
+    <string id="32004">Vectra</string>
+    <string id="32005">PLAY</string>
+    <string id="32006">Multimedia Polska</string>
+    <string id="32007">Netia</string>
+    <string id="32008">Orange</string>
+    <string id="32009">INEA</string>
+    <string id="32010">TOYA</string>
+    <string id="32011">JAMBOX</string>
+    <string id="32012">PROMAX</string>
+    <string id="32013">Asta-Net</string>
+    <string id="32014">TK Chopin</string>
+    <string id="32015">ELSAT</string>
+    <string id="32016">Eltronik</string>
+    <string id="32017">SatFilm</string>
+    <string id="32018">Master</string>
+    <string id="32019">STANSAT</string>
+    <string id="32020">Dialog</string>
+    <string id="32021">Internetia</string>
+    <string id="32022">Petrotel</string>
+    <string id="32023">Cinema City – promocja</string>
+    <string id="32024">Samsung - promocja</string>
+    <string id="32025">Player+</string>
+    <string id="32026">HBO GO Vip/Club Poland</string>
+    <string id="32027">HBO Polska</string>
+    <!-- <string id="32014"></string> -->
+    <!-- Konto -->
+    <string id="32040">Konto</string>
+    <string id="32041">Operator</string>
+    <string id="32042">Login</string>
+    <string id="32043">Hasło</string>
+    <!-- Napisy -->
+    <string id="32030">Napisy</string>
+    <string id="32031">Włącz ładowanie napisów przez tą wtyczkę</string>
+    <string id="32032">Język</string>
+    <string id="32033">Wybierz język napisów</string>
+    <string id="32034">Polski</string>
+    <string id="32035">Angielski</string>
+</strings>

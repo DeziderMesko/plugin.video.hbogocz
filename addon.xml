@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<addon id="plugin.video.hbogopl" name="HBO GO Polska" version="0.7.6" provider-name="c0d34fun">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary lang="pl">HBO GO Polska</summary>
+  	<description lang="pl">Oglądaj HBO GO w Kodi!</description>
+  	<disclaimer lang="pl">To nie jest oficjalna wtyczka! Jeśli oficjalna aplikacja jest dostępna dla twojej platformy, użyj jej zamiast tej wtyczki. Wszelkie prawa do treści są zastrzeżone przez HBO® Europe.</disclaimer>
+  	<summary lang="en">HBO GO Poland</summary>
+  	<description lang="en">Watch HBO GO in Kodi!</description>
+  	<disclaimer lang="en">This is not an official plugin! If the official application is available for your platform, use it instead of this plugin. All rights to the content are reserved by HBO® Europe.</disclaimer>
+    <language>pl</language>
+  	<platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://forum.kodiwpigulce.pl/Watek-HBO-GO-Polska</forum>
+  	<website>https://www.hbogo.pl</website>
+  	<assets>
+	   <icon>resources/icon.png</icon>
+       <fanart>resources/fanart.jpg</fanart>
+       <screenshot>resources/screenshot-01.jpg</screenshot>
+       <screenshot>resources/screenshot-02.jpg</screenshot>
+       <screenshot>resources/screenshot-03.jpg</screenshot>
+       <screenshot>resources/screenshot-04.jpg</screenshot>
+       <screenshot>resources/screenshot-05.jpg</screenshot>
+       <screenshot>resources/screenshot-06.jpg</screenshot>
+	</assets>
+  </extension>
+</addon>
