@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Operátor -->
+    <string id="32000">Vyberte svého operátora</string>
+    <string id="32001">freeSAT Česká republika</string>
+    <string id="32002">Skylink</string>
+    <string id="32003">UPC CZ</string>
+    <string id="32004">Slovák Telekom</string>
+    <string id="32005">Lepší.TV</string>
+    <string id="32006">O2</string>
+    <string id="32007">RIO Media</string>
+    <string id="32008">UPC BROADBAND SLOVAKIA</string>
+    <string id="32009">AIM</string>
+    <string id="32010">T-MOBILE Czech Republic a.s.</string>
+    <string id="32011">Antik Telecom</string>
+    <string id="32012">CentroNet, a. s.</string>
+    <string id="32013">DIGI CZ s.r.o.</string>
+    <string id="32014">DIGI SLOVAKIA s.r.o.</string>
+    <string id="32015">FixPro</string>
+    <string id="32016">flexiTV</string>
+    <string id="32017">freeSAT Slovensko</string>
+    <string id="32018">GRAPE SC</string>
+    <string id="32019">HD Kabel</string>
+    <string id="32020">Kuki</string>
+    <string id="32021">MARTICO</string>
+    <string id="32022">Nej.cz</string>
+    <string id="32023">NETBOX</string>
+    <string id="32024">Satro</string>
+    <string id="32025">SATT</string>
+    <string id="32026">SELFNET</string>
+    <string id="32027">sledovanitv.cz s.r.o.</string>
+    <string id="32028">Slovanet a.s.</string>
+    <string id="32029">SWAN, a.s.</string>
+
+    <string id="32050">Tesatel</string>
+    <string id="32051">HBO GO special</string>
+    <string id="32052">HBO GO Vip/Club Czech Republic</string>
+    <string id="32053">HBO Development</string>
+    <string id="32054">HBO GO Vip/Club Slovakia</string>
+    <!-- <string id="32014"></string> -->
+    <!-- Účet -->
+    <string id="32040">Účet</string>
+    <string id="32041">Operátor</string>
+    <string id="32042">Přihlašovácí jméno</string>
+    <string id="32043">Heslo</string>
+    <!-- Titulky -->
+    <string id="32030">Titulky</string>
+    <string id="32031">Povolte titulky, pomoci tohoto doplňku</string>
+    <string id="32032">Jazyk</string>
+    <string id="32033">Vyberte jazyk titulků</string>
+    <string id="32034">Čeština</string>
+    <string id="32035">Angličtina</string>
+	<string id="32036">Slovenština</string>
+</strings>
