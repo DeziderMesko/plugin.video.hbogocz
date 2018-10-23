@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.hbogopl" name="HBO GO Polska" version="0.7.6" provider-name="c0d34fun">
+<addon id="plugin.video.hbogocz" name="HBO GO Czech Republic" version="0.7.6" provider-name="c0d34fun">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -8,17 +8,17 @@
   	<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-  	<summary lang="pl">HBO GO Polska</summary>
-  	<description lang="pl">Oglądaj HBO GO w Kodi!</description>
-  	<disclaimer lang="pl">To nie jest oficjalna wtyczka! Jeśli oficjalna aplikacja jest dostępna dla twojej platformy, użyj jej zamiast tej wtyczki. Wszelkie prawa do treści są zastrzeżone przez HBO® Europe.</disclaimer>
-  	<summary lang="en">HBO GO Poland</summary>
+  	<summary lang="cs">HBO GO Česká republika</summary>
+  	<description lang="cs">Sledujte HBO GO v Kodi!</description>
+  	<disclaimer lang="cs">Toto není oficiální plugin! Pokud je k dispozici oficiální aplikace pro vaši platformu, použijte ji místo tohoto pluginu. Všechna práva k obsahu jsou vyhrazena HBO® Europe.</disclaimer>
+  	<summary lang="en">HBO GO Czech Republic</summary>
   	<description lang="en">Watch HBO GO in Kodi!</description>
   	<disclaimer lang="en">This is not an official plugin! If the official application is available for your platform, use it instead of this plugin. All rights to the content are reserved by HBO® Europe.</disclaimer>
-    <language>pl</language>
+    <language>cs</language>
   	<platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <forum>http://forum.kodiwpigulce.pl/Watek-HBO-GO-Polska</forum>
-  	<website>https://www.hbogo.pl</website>
+  	<website>https://www.hbogo.cz</website>
   	<assets>
 	   <icon>resources/icon.png</icon>
        <fanart>resources/fanart.jpg</fanart>

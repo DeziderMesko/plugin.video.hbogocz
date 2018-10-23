@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
     <!-- Operátor -->
-    <string id="32000">Vyberte svého operátora</string>
+    <string id="32000">(výchozí)</string>
     <string id="32001">freeSAT Česká republika</string>
     <string id="32002">Skylink</string>
     <string id="32003">UPC CZ</string>
